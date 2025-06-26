@@ -1,4 +1,4 @@
-# Agentic-AI
+# Agentic-AI Stock Advisor- Multi-Agent Financial Analysis System
 
 
 ## 🚀 AI Agent Team with Agno Framework & Groq API
