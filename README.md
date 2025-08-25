@@ -13,7 +13,7 @@ This project demonstrates how to build a multi-agent AI system using the **[Agno
 * **Agent Framework**: [`agno`](https://github.com/agnodice/agno)
 * **Tools**:
 
-  * 🔍 `DuckDuckGoTools`: For web search queries
+  * 🔍 `DuckDuckGoTools`: For web search queries all latest news about the company 
   * 📊 `YFinanceTools`: For real-time financial market data
 
 ---
